@@ -1,5 +1,4 @@
-// sum of n natural number  
-
+// sum of n natural number
 #include<stdio.h>
 // int main(){
 //     int n ;
